@@ -10,7 +10,8 @@ I am pursuing Applied computer science because I have been fascinated by technol
 #### 
 #### -Machine Learning(still Learning)
 
-## Contacts
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 
 

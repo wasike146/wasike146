@@ -6,7 +6,7 @@ I am pursuing Applied computer science because I have been fascinated by technol
 #### -Python
 #### -Django
 #### -HTML and CSS
-#### Machine Learning(still Learning)
+#### -Machine Learning(still Learning)
 #### 
 
 

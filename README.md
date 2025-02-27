@@ -7,7 +7,8 @@ I am pursuing Applied computer science because I have been fascinated by technol
 #### -Django
 #### -HTML and CSS
 #### -Machine Learning(still Learning)
-#### 
+#### vue js
+#### Learnig laravel
 
 
 

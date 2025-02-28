@@ -1,6 +1,4 @@
-
-
-I am pursuing Applied computer science because I have been fascinated by technologies in general and computers in particular from the beginning. I occupy a great hunger for understanding and learning new skills and inspired by the subjects complexity and beauty.
+ I enjoy building applications, working with the below languages ,and exploring AI-driven solutions.I occupy a great hunger for understanding and learning new skills and inspired by the subjects complexity and beauty.
 
 ## 🛠 Skills
 #### -Python

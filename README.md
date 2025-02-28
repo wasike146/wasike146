@@ -1,4 +1,4 @@
- I enjoy building applications, working with the below languages ,and exploring AI-driven solutions.I occupy a great hunger for understanding and learning new skills and inspired by the subjects complexity and beauty.
+I'm passionate about building applications, exploring AI-driven solutions, and continuously learning new technologies. I enjoy working in teams and giving back to the community.
 
 ## 🛠 Skills
 #### -Python
@@ -7,7 +7,7 @@
 #### -Machine Learning(still Learning)
 #### vue js
 #### Learnig laravel
-
+🚀 Always eager to grow, collaborate, and build!
 
 
 

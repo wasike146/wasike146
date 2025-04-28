@@ -4,6 +4,7 @@ I'm passionate about building applications, exploring AI-driven solutions, and c
 #### -Python
 #### -Django
 #### -HTML and CSS
+#### -JS
 #### -Machine Learning(still Learning)
 #### vue js
 #### Learnig laravel

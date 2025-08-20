@@ -6,7 +6,7 @@ I'm passionate about building applications, exploring AI-driven solutions, and c
 #### -HTML and CSS
 #### -JS
 #### -Machine Learning(still Learning)
-#### Learnig laravel
+
 ## Contacts
 #### Phone:0720346818
 #### Email:isaac.wasike146@gmail.com
